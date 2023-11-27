@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/alecthomas/chroma v0.10.0
-	github.com/aquasecurity/trivy-policies v0.6.1-0.20231120231532-f6f2330bf842
+	github.com/aquasecurity/trivy-policies v0.7.0
 	github.com/google/uuid v1.4.0
 	github.com/hashicorp/hcl/v2 v2.19.1
 	github.com/liamg/iamgo v0.0.9
@@ -58,8 +58,8 @@ require (
 	github.com/prometheus/client_model v0.4.0 // indirect
 	github.com/prometheus/common v0.44.0 // indirect
 	github.com/prometheus/procfs v0.10.1 // indirect
-	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0 // indirect
-	github.com/sergi/go-diff v1.1.0 // indirect
+	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
+	github.com/sergi/go-diff v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/skeema/knownhosts v1.2.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
@@ -73,10 +73,10 @@ require (
 	go.opentelemetry.io/otel/sdk v1.19.0 // indirect
 	go.opentelemetry.io/otel/trace v1.19.0 // indirect
 	golang.org/x/crypto v0.14.0 // indirect
-	golang.org/x/mod v0.10.0 // indirect
+	golang.org/x/mod v0.13.0 // indirect
 	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/sys v0.13.0 // indirect
-	golang.org/x/tools v0.8.0 // indirect
+	golang.org/x/tools v0.13.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
